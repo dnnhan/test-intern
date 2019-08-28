@@ -1,0 +1,129 @@
+body {
+  font-size: 14px;
+  color: #000000;
+}
+
+.NavRightLine {
+  margin-top: 55px;
+  margin-left: 60px;
+  margin-right: 60px;
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+}
+.NavRightLine .top {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 100px;
+}
+.NavRightLine .top .top-body .px-1 {
+  border-bottom: 1px #d2d2d2 solid;
+  color: #d2d2d2;
+}
+.NavRightLine .top .top-body .pl-0 {
+  width: 70px;
+  padding-left: 40px;
+  vertical-align: middle;
+}
+.NavRightLine .top .top-body .pl-0 .top-0 {
+  border-top: 1px solid #AEAEAE;
+  line-height: 0;
+}
+.NavRightLine .top .title-gumi {
+  font-size: 18px;
+  margin-right: 45px;
+}
+.NavRightLine .bottom {
+  display: flex;
+  justify-content: space-between;
+}
+.NavRightLine .bottom .coll {
+  font-size: 18px;
+}
+.NavRightLine .bottom .see-all {
+  margin-left: 65px;
+  border-bottom: 1px solid;
+  color: #9b9392;
+}
+.NavRightLine .bottom .date {
+  padding-right: 20px;
+}
+.NavRightLine .bottom .bottom-body .px-1 button {
+  font-size: 14px;
+}
+.NavRightLine .bottom .bottom-body .pl-0 {
+  width: 268px;
+  vertical-align: middle;
+  padding-right: 20px;
+}
+.NavRightLine .bottom .bottom-body .pl-0 .bottom-0 {
+  border-top: 2px solid;
+}
+.NavRightLine .bottom .by {
+  padding-right: 170px;
+}
+.NavRightLine .bottom .coll {
+  padding-right: 130px;
+}
+.NavRightLine .a {
+  width: 70px;
+  padding-left: 40px;
+  vertical-align: middle;
+}
+.NavRightLine .a span {
+  border-top: 1px solid #AEAEAE;
+  line-height: 0;
+}
+.NavRightLine .bottom {
+  display: flex;
+  position: absolute;
+}
+.NavRightLine .logo {
+  position: absolute;
+  left: 47%;
+  transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  padding-top: 100px;
+}
+.NavRightLine .between {
+  padding-top: 634px;
+  padding-bottom: 90px;
+}
+.NavRightLine .between .outer {
+  position: relative;
+  display: inline-block;
+  margin: 35px 10px;
+}
+.NavRightLine .between .rotate {
+  -moz-transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+  -webkit-transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+  transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+}
+.NavRightLine .hr {
+  width: 268px;
+  vertical-align: middle;
+  padding-right: 20px;
+  padding-top: 10px;
+}
+.NavRightLine .hr .hr-0 {
+  border-top: 2px solid;
+}
+
+.content .title {
+  font-size: 136px;
+  margin-top: 162px;
+  margin-left: 120px;
+}
+.content .text {
+  margin-top: 320px;
+}
+.content .right {
+  background: #ede0df;
+}
+.content .right img {
+  margin-top: 70px;
+  margin-left: 195px;
+  margin-bottom: 70px;
+}
+
+/*# sourceMappingURL=style.css.map */
